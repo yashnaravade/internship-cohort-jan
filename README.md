@@ -14,4 +14,4 @@
 
 [Week 7 Instruction Plan](https://github.com/roadtocode-org/internship-cohort-jan/blob/main/Instruction%20Plans/week-7.md)
 
-[Interview Preparation Instruction Plan](https://github.com/roadtocode-org/internship-cohort-jan/blob/main/Instruction%20Plans/interview-prep.md)
+[Interview Preparation Instruction Plan](https://github.com/roadtocode-org/internship-cohort-jan/blob/main/Instruction%20Plans/Interview-prep.md)
