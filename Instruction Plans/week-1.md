@@ -24,12 +24,12 @@
     - Paragraph tag and div tag
     - inline style (color, font-size)
     - bold, italic, sub, sup
-    - ol, ul
 
   - ### Homework Task
     - Create a simple webpage to show information about nearest tourist place
 
 ## Wednesday
+  - ### ol, ul
   - ### Table Tag  
   - ### Demo for the HomeWork and Revision
 
