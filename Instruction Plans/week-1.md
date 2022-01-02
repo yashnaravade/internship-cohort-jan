@@ -23,7 +23,7 @@
     - Anchor tag
     - Paragraph tag and div tag
     - inline style (color, font-size)
-    - bold, italic, sub, sup
+    - bold, italic, underline, sub, sup
 
   - ### Homework Task
     - Create a simple webpage to show information about nearest tourist place
