@@ -21,7 +21,7 @@
   - ### Basic HTML Tags
     - Image tag  
     - Anchor tag
-    - Paragraph tag
+    - Paragraph tag and div tag
     - inline style (color, font-size)
     - bold, italic, sub, sup
     - ol, ul
