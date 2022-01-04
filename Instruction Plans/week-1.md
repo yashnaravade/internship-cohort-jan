@@ -1,6 +1,6 @@
 # Week-1
 
-## Monday
+## Day-1
 
 - ### Introduction to Internship Cohort Program
   
@@ -17,23 +17,21 @@
     - What is Tag
     - Heading tag
 
-## Tuesday
+## Day-2
   - ### Basic HTML Tags
     - Image tag  
     - Anchor tag
-    - Paragraph tag and div tag
     - inline style (color, font-size)
     - bold, italic, underline, sub, sup
 
   - ### Homework Task
-    - Create a simple webpage to show information about nearest tourist place
+    - Create a simple webpage to show information about nearest tourist place, school, backery, nursery
 
-## Wednesday
+## Day-3
   - ### ol, ul
-  - ### Table Tag  
-  - ### Demo for the HomeWork and Revision
+  - ### Paragraph tag and div tag 
 
-## Thurday
+## Day-4
   - ### Form and User Inputs
       - input=> text, email, number, color
       - button
@@ -46,13 +44,18 @@
   
   - ### Login Page
 
-## Friday
+  - ### Homework
+
+    - Q1) Create a webpage showing form for admission in college
+    - Q2) Create a webpage showing form for Train Ticket Booking
+
+## Day-5
   - ### HTML Media
       - Video
       - Audio
       - YouTube Video
       - Google Map
 
-## Saturday
+## Day-6
   - ### iframe
   - Basic portfolio website
