@@ -8,6 +8,7 @@
     - Backgrounds
 
 ## Tuesday
+  - ### CSS Selectors
   - ### Box Model
 
 ## Wednesday
