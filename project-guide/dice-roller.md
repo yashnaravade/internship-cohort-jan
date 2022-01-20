@@ -1,5 +1,7 @@
 # Dice Roller
 
+In this tutorial, you will learn to build a dice roller with the help of Javascript.
+
 ### Project Structure
 
 ### Assets
