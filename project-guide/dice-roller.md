@@ -1,5 +1,7 @@
 # Dice Roller
 
+## In this tutorial you will learn how to make a dice roller application with the help of JavaScript.
+
 ### Project Structure
 
 ### Assets
